@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c340318-5601-4727-bea8-bd2103c0d301" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +49,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringServer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../texte.md" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
@@ -79,8 +82,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597187441051</updated>
+      <workItem from="1598413261972" duration="324000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -103,10 +110,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="685" y="144" width="539" height="819" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1597187705876" />
-    <state x="2663" y="291" width="424" height="485" key="FileChooserDialogImpl" timestamp="1597189966511">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="743" y="311" width="424" height="485" key="FileChooserDialogImpl" timestamp="1598413505098">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="424" height="485" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1597189589337" />
+    <state x="743" y="311" width="424" height="485" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598413505098" />
     <state x="2663" y="291" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597189966510" />
     <state width="1860" height="271" key="GridCell.Tab.0.bottom" timestamp="1597189691586">
       <screen x="0" y="27" width="1920" height="1053" />
